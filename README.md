@@ -44,12 +44,6 @@ Palette used in this starter: dark navy `#17243B`, teal `#087F8C`, off-white `#F
 ## Contact form validation
 The contact form uses built-in HTML constraints: required name/email/message, email input type, minimum/maximum lengths, and a phone-number pattern. It is a front-end demonstration only. A static GitHub Pages site cannot send or store submissions without a backend or form service; do not claim messages are delivered.
 
-## Personal media — required before submission
-1. Replace `images/mustafa-photo.jpg` with your own photo.
-2. Add your own `images/video-poster.jpg` image for the video poster.
-3. Record a 45–60 second introductory video, save it as `video/introduction.mp4`, and test the controls.
-4. Replace `YOUR_EMAIL@example.com` on all four HTML pages with the email address you want to publish.
-5. Review all project descriptions and remove or edit anything that does not accurately represent work you completed.
 
 ## Testing checklist
 - [ ] Open each HTML file locally and click every navigation link.
@@ -62,13 +56,3 @@ The contact form uses built-in HTML constraints: required name/email/message, em
 - [ ] Spell-check all text and fix any warnings/errors you can.
 - [ ] After testing, record actual results here. Do not claim a validator or WAVE pass unless you ran it.
 
-## GitHub Pages deployment
-1. Create a **public** GitHub repository for this assignment.
-2. Upload the contents of this folder (the HTML files should be at the repository root).
-3. Commit meaningful stages separately, such as `Add portfolio page structure`, `Add responsive CSS`, `Add project content`, and `Fix validation issues`. Only use commit messages for work actually completed in each commit.
-4. In the repository, open **Settings → Pages**. Choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
-5. Wait for GitHub Pages to publish and test the live URL.
-6. Submit the live GitHub Pages URL, repository URL, and a ZIP of your project on Canvas.
-
-## External sources
-This starter's authored HTML/CSS is written for this assignment. If you add code, images, fonts, or other assets from outside sources, list the creator/source and URL here and add comments in the relevant code explaining the borrowed code's purpose. Follow the assignment's 10% limit for external code.
