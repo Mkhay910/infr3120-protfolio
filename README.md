@@ -20,10 +20,10 @@ infr3120-portfolio/
 │   ├── tablet.css
 │   └── mobile.css
 ├── images/
-│   ├── mustafa-photo.jpg       (add your own photo)
-│   └── video-poster.jpg        (add a poster image)
+│   ├── mustafa-photo.jpg       
+│  
 └── video/
-    └── introduction.mp4        (add your 45–60 second video)
+    └── introduction.mp4        
 ```
 
 ## Responsive design
